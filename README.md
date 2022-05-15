@@ -53,7 +53,6 @@ I'm a Web Developer!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valcosmos&layout=compact&show_icons=true&bg_color=30,7028e4,e5b2ca&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=valcosmos&show_icons=true&bg_color=30,7028e4,e5b2ca&title_color=fff&text_color=fff&icon_color=fff" />
-
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valcosmos&layout=compact&show_icons=true&bg_color=30,7028e4,e5b2ca&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats" />
 
 
