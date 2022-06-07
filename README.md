@@ -8,7 +8,6 @@ Hi there, I'm <a href="https://valzt.cn/" target="_blank" rel="noreferrer">Cupid
 I'm a Web Developer!
 </h2> 
 
-
 ## 🔭 I'm currently working on
 
 - 💫 My old projects
@@ -38,11 +37,9 @@ I'm a Web Developer!
 ![](https://img.shields.io/badge/Code-Koa-informational?style=flat&logo=Koa&color=33333D)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=092E20)
 
-
 <!-- **valcosmos/valcosmos** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-
 
 ## ✨ GitHub Stats 
 
@@ -53,5 +50,3 @@ I'm a Web Developer!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valcosmos&layout=compact&show_icons=true&bg_color=30,7028e4,e5b2ca&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=valcosmos&show_icons=true&bg_color=30,7028e4,e5b2ca&title_color=fff&text_color=fff&icon_color=fff" /><img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valcosmos&layout=compact&show_icons=true&bg_color=30,7028e4,e5b2ca&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats" />
-
-
