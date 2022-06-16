@@ -43,6 +43,8 @@ I'm a Web Developer!
 
 ## ✨ GitHub Stats 
 
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=valcosmos&theme=dracula)](https://github.com/valcosmos) -->
+
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=valcosmos&show_icons=true&bg_color=30,7028e4,e5b2ca&title_color=fff&text_color=fff&icon_color=fff" /> -->
 
 <!-- ![valcosmos GitHub stats](https://github-readme-stats.vercel.app/api?username=valcosmos&show_icons=true&bg_color=30,7028e4,e5b2ca&title_color=fff&text_color=fff&icon_color=fff)
