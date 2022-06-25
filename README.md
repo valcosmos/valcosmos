@@ -25,17 +25,19 @@ I'm a Web Developer!
 
 ## 🌟 Technical Skills
 
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
+<!-- ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26) -->
 
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue.js&color=4FC08D)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&color=3178C6)
 
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&color=339933)
-![](https://img.shields.io/badge/Code-Koa-informational?style=flat&logo=Koa&color=33333D)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=092E20)
+![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=Vue.js&color=4FC08D)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&color=61DAFB)
+
+![](https://img.shields.io/badge/Code-Node-informational?style=for-the-badge&logo=Node.js&color=339933)
+![](https://img.shields.io/badge/Code-Koa-informational?style=for-the-badge&logo=Koa&color=33333D)
+![](https://img.shields.io/badge/Code-Django-informational?style=for-the-badge&logo=Django&color=092E20)
 
 <!-- **valcosmos/valcosmos** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
