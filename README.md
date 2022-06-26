@@ -11,8 +11,9 @@ I'm a Web Developer!
 ## Hi there, I'm <a href="https://valzt.cn/" target="_blank" rel="noreferrer">Cupid Valentine</a> 👋
 
 I'm a Web Developer!
+<img src="https://visitor-badge.glitch.me/badge?page_id=valcosmos.valcosmos" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=valcosmos.valcosmos)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=valcosmos.valcosmos) -->
 
 ## 🔭 I'm currently working on
 
