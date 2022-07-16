@@ -12,7 +12,7 @@ I'm a Web Developer!
 
 I'm a front-end coder.
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=valcosmos.valcosmos" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=valcosmos.valcosmos" alt="" />
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=valcosmos.valcosmos) -->
 
