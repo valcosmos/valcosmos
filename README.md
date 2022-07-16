@@ -8,7 +8,7 @@
 I'm a Web Developer!
 </h2>  -->
 
-## Hi there, I'm <a href="https://www.valzt.cn" target="_blank" rel="noreferrer">Cupid Valentine</a> 👋
+## Hi there, I'm <a href="https://www.valzt.cn/about" target="_blank" rel="noreferrer">Cupid Valentine</a> 👋
 
 I'm a front-end coder.
 
