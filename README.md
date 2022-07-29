@@ -14,7 +14,7 @@ I'm a front-end coder.
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=valcosmos.valcosmos&right_color=RoyalBlue" alt="" />
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=valcosmos.valcosmos) -->
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=valcosmos.valcosmos) -->
 
 - 🍀 I'm currently working on Maintain my personal blog and component library.
 
