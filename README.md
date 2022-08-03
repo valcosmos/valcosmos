@@ -40,7 +40,7 @@ I'm a front-end coder.
 
 <!-- Here are some ideas to get you started: -->
 
-## ✨ GitHub Stats 
+<!-- ## ✨ GitHub Stats  -->
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=valcosmos&theme=dracula)](https://github.com/valcosmos) -->
 
