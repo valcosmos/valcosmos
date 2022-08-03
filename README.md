@@ -16,9 +16,11 @@ I'm a front-end coder.
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=valcosmos.valcosmos) -->
 
-- 🍀 I'm currently working on Maintain my personal blog and component library.
+- 🍀 I'm currently working on Maintain my **personal blog** and **component library**.
 
-- 🌱 I'm currently learning `TypeScript` `Vue3` `React` `Node` `Golang`.
+- 🌱 I'm currently learning `TypeScript` `Vue3` `React`.
+
+- 🌟 I'm currently more interested in `Nuxt3` and `Next.js`.
 
 <!-- ## 🌟 Technical Skills -->
 
