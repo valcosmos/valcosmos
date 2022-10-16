@@ -16,7 +16,7 @@ I'm a front-end coder.
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=valcosmos.valcosmos) -->
 
-- 🍀 I'm currently working on Maintain my **personal blog** and **component library**.
+- 🍀 I'm currently maintaining my **Blog** and **Component lib**.
 
 - 🌱 I'm currently learning `TypeScript` `Vue3` `React`.
 
